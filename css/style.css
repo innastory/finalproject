@@ -1,0 +1,67 @@
+@charset "UTF-8";
+* {
+  font-family: 微軟正黑體;
+  /*border: solid 2px #777 */
+}
+
+body {
+  height: 1000px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900;
+}
+
+header.jumbotron {
+  margin-bottom: 0px;
+  text-align: center;
+  background-image: url(https://yys.res.netease.com/pc/zt/20170731172708/data/picture/20180928/5/1366x768.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+header.jumbotron .container {
+  color: white;
+  padding: 100px 0px;
+}
+header.jumbotron hr {
+  max-width: 300px;
+  border: solid 2px #4d2600;
+}
+header.jumbotron h4, header.jumbotron h1 {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+section {
+  padding: 50px 0px;
+}
+
+section#section_ask {
+  background-color: #ffa64d;
+}
+section#section_ask .col-sm-5.img {
+  background-image: url(https://yys.res.netease.com/pc/zt/20170731172708/img/music/cover_13d1427.jpg);
+  height: 350px;
+  background-size: cover;
+}
+section#section_ask h2 {
+  margin-top: 130px;
+  color: #4d2600;
+  psdding: 0px 20px;
+}
+
+section#section_about {
+  background-color: #4d2600;
+}
+section#section_about h3 {
+  color: #ffa64d;
+}
+section#section_about img {
+  width: 100%;
+}
+section#section_about .img_wrap {
+  height: 150px;
+  overflow: hidden;
+}
+section#section_about p {
+  color: white;
+}
