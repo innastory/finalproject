@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 header.jumbotron {
   margin-bottom: 0px;
   text-align: center;
-  background-image: url(https://yys.res.netease.com/pc/zt/20170731172708/data/picture/20180928/5/1366x768.jpg);
+  background-image: url(1366x768.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
