@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 header.jumbotron {
   margin-bottom: 0px;
   text-align: center;
-  background-image: url(https://yys.res.netease.com/pc/zt/20170731172708/data/picture/20180928/5/1366x768.jpg);
+  background-image: url(1366x768.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -39,14 +39,14 @@ section#section_ask {
   background-color: #ffa64d;
 }
 section#section_ask .col-sm-5.img {
-  background-image: url(https://yys.res.netease.com/pc/zt/20170731172708/img/music/cover_13d1427.jpg);
+  background-image: url(13d1427.jpg);
   height: 350px;
   background-size: cover;
 }
 section#section_ask h2 {
   margin-top: 130px;
   color: #4d2600;
-  psdding: 0px 20px;
+  padding: 0px 20px;
 }
 
 section#section_about {
@@ -64,4 +64,28 @@ section#section_about .img_wrap {
 }
 section#section_about p {
   color: white;
+}
+
+section#section_video {
+  background-color: white;
+  background-image: url(http://hbimg.b0.upaiyun.com/118905ec2e41c5e37e7f0d3c56b29f9f2f151c9c317839-8HrHw9_fw658);
+  background-size: 100%;
+  background-attachment: fixed;
+}
+section#section_video h1 {
+  color: #4d2600;
+}
+
+section#section_other {
+  background-color: #ffa64d;
+}
+section#section_other h1, section#section_other h3 {
+  color: #4d2600;
+}
+section#section_other img {
+  width: 100%;
+}
+section#section_other .img_wrap {
+  height: 100px;
+  overflow: hidden;
 }
