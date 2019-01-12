@@ -46,7 +46,10 @@ section#section_ask .col-sm-5.img {
 section#section_ask h2 {
   margin-top: 130px;
   color: #4d2600;
-  padding: 0px 20px;
+}
+
+section#section_ask h4 {
+  color: #4d2600;
 }
 
 section#section_about {
